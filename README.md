@@ -24,7 +24,7 @@ Go ahead and select the JavaScript tab and you'll see some JavaScript code
 //Enter querySelector Code here
 var header = "Adele Goldberg"
 var linkText = "computer scientist"
-var linkHref = "ENTER LINK HREF CODE HERE"
+var linkHref = "https://en.wikipedia.org/wiki/Computer_scientist"
 
 
 // NO NEED TO MODIFY BELOW HERE
