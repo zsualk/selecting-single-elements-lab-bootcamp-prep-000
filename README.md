@@ -22,7 +22,7 @@ Go ahead and select the JavaScript tab and you'll see some JavaScript code
 
 ```javascript
 //Enter querySelector Code here
-var header = "ENTER HEADER CODE HERE"
+var header = "Adele Goldberg"
 var linkText = "ENTER LINK TEXT CODE HERE"
 var linkHref = "ENTER LINK HREF CODE HERE"
 
